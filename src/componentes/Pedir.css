@@ -1,0 +1,29 @@
+.contenedor{
+    width: 430px;
+    height: 62px;
+    background-color: rgba(236, 186, 196, 1);
+    position: absolute;
+    top: 650px; /* Ajusta la posición vertical del rectángulo */
+    left: 176px; /* Ajusta la posición horizontal del rectángulo */
+    z-index: 1;
+    border-radius:15px ;
+    display: flex;
+    justify-content: center;
+    
+align-items: center
+
+}
+.menos{
+    width: 33px;
+    height: 33px;
+    background-color: rgb(239, 96, 125);
+    border-radius: 100%;
+    
+}
+.mas{
+    width: 33px;
+    height: 33px;
+    background-color: rgb(239, 96, 125);
+    border-radius: 100%;
+   
+}
